@@ -18,7 +18,7 @@ THEN I can save my initials and my score
 ```
 ## Deployment
 
-Site page: 
+Site page: https://tjamesmcdonald.github.io/timed-quiz/
 
 Github repo: https://github.com/tjamesmcdonald/timed-quiz
 
